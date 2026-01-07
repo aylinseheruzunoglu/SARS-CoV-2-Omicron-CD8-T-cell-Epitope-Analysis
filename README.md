@@ -89,3 +89,11 @@ This final pipeline serves as the synthesis module, isolating the "Universal Con
 * Matplotlib / Seaborn (for static plots)
 * UpSetPlot (for intersection analysis)
 * NetMHCpan 4.1 (External tool or API)
+
+---
+
+## ⚠️ Authorship & Disclaimer
+
+All analyses, scripts, and code structures in this repository have been exclusively developed for the PhD thesis of **Aylin Seher Uzunoğlu**.
+
+These materials are shared to ensure scientific transparency and reproducibility of the study results. While open for academic review, any unauthorized reproduction or use in other publications without proper citation is strictly prohibited.
